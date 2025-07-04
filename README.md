@@ -23,10 +23,6 @@ This project analyzes the relationship between **world population** and **GDP pe
    ```
    World_population_gdp.ipynb
    ```
-3. (Optional) Convert notebook to HTML:
-   ```
-   python -m jupyter nbconvert --to html World_population_gdp.ipynb
-   ```
 
 ### 🧩 Data sources
 - [World Population Dataset (1960–2021)](https://www.kaggle.com/datasets/kaggleashwin/population-dataset)
